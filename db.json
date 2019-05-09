@@ -2,6 +2,6 @@
   "candidates": [
     { "id": 1, "name": "shyam", "email": "shankarandshyam@gmail.com", "phone": "7896543210", "city": "Hyderabad", "dob": "5/21/2019, 3:06 PM", "jobtype" : "contract"},
     { "id": 2, "name": "ramu", "email": "sitaramu@gmail.com", "phone": "8655454510", "city": "Vijayawada", "dob": "6/21/2019, 3:06 PM", "jobtype" : "contract"},
-    { "id": 2, "name": "nag", "email": "nagsai@gmail.com", "phone": "94854515441", "city": "Vizag", "dob": "7/21/2019, 3:06 PM", "jobtype" : "permanent"}
+    { "id": 3, "name": "nag", "email": "nagsai@gmail.com", "phone": "94854515441", "city": "Vizag", "dob": "7/21/2019, 3:06 PM", "jobtype" : "permanent"}
   ]
   }
